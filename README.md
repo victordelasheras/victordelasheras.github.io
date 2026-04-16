@@ -1,11 +1,50 @@
-<div align="center">
+# Víctor de las Heras Reverte | Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Premium personal portfolio for Víctor de las Heras Reverte, Sustainable Energy Engineer specializing in building performance and sustainability.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Premium Design:** Clean, modern, and high-end visual identity.
+- **Interactive Experience:** Subtle micro-interactions, custom cursor, and magnetic effects.
+- **Responsive:** Fully optimized for all screen sizes.
+- **Performance Optimized:** Lightweight assets and efficient animations.
+- **Accessibility:** Clear focus states and semantic HTML.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Technologies Used
 
-</div>
+- **HTML5:** Semantic structure.
+- **CSS3:** Advanced layouts (Grid/Flexbox) and custom animations.
+- **Vanilla JavaScript:** Interactive elements and scroll effects.
+- **Vite:** Modern build tool for development.
+
+## 💻 How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+   ```
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd portfolio
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open your browser:**
+   Navigate to `http://localhost:3000`
+
+## 📦 Deployment
+
+This project is ready for deployment on **GitHub Pages**, **Vercel**, or **Netlify**. Ensure all paths are relative for seamless integration.
+
+---
+© 2026 Víctor de las Heras Reverte
